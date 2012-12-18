@@ -1,0 +1,42 @@
+/* Define Global site attributes */
+
+body {
+	color:black;
+	background:white;
+	font-family: 'DejaVu Sans', 'Liberation Sans', Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+/* The Site Header and Navigation */
+
+header {
+	width:100%;
+	height:100px;
+	text-align:center;
+}
+
+ol {
+	display:inline;
+}
+
+/* The Sidebar */
+
+aside {
+	width:200px;
+	height:100%;
+}
+
+/* Content Area */
+
+#content {
+	margin-left:200px;
+}
+
+article {
+}
+
+/* Footer */
+
+footer {
+	text-align:center;
+}
